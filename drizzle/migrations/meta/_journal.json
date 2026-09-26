@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789748305848,
+      "tag": "0000_localpulse_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789751057786,
+      "tag": "0001_create_plan_reviews",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789755373285,
+      "tag": "0002_create_app_feedback",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789825467667,
+      "tag": "0003_verified_local_review_proofs",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789927483823,
+      "tag": "0004_travel_history_and_address_dedupe",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1790066998907,
+      "tag": "0005_profiles_autocreate_and_backfill",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790067045975,
+      "tag": "0006_remove_auth_user_triggers",
+      "breakpoints": true
+    }
+  ]
+}
